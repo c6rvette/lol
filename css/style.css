@@ -107,6 +107,25 @@ body{
     flex-direction: column;
     align-items: center;
 }
+.section2_hr__block{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 180px 0;
+}
+.sec2__block{
+    display: flex;
+    justify-content: space-between;
+}
+.sec2__text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 375px;
+}
+.sec2__titlepad{
+    padding-bottom: 27px;
+}
 /* sign in */
 .signin__wrap{
     display: flex;
